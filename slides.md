@@ -1,15 +1,12 @@
 ---
-# try also 'default' to start simple
 theme: seriph
-# apply UnoCSS classes to the current slide
 class: text-center
-# https://sli.dev/features/drawing
-#drawings:
-#  persist: false
-# slide transition: https://sli.dev/guide/animations.html#slide-transitions
 transition: slide-left
-# enable MDC Syntax: https://sli.dev/features/mdc
-mdc: true
+colorSchema: light
+
+fonts:
+  sans: Noto sans
+  serif: Noto serif
 ---
 
 # 2025年工作总结
