@@ -1,5 +1,6 @@
 ---
 theme: seriph
+background: https://cover.sli.dev
 class: text-center
 transition: slide-left
 colorSchema: light
